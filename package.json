@@ -1,0 +1,26 @@
+{
+  "name": "arianeeservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint './**/*.js?(x)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arianee/ArianeeService.git"
+  },
+  "author": "Arianee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arianee/ArianeeService/issues"
+  },
+  "homepage": "https://github.com/Arianee/ArianeeService#readme",
+  "dependencies": {
+    "@0xcert/ethereum-utils-contracts": "^1.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
